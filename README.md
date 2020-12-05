@@ -124,6 +124,7 @@ _*Txid will be downloaded first (it may take a while) and then mining will start
 
 _*Press Ctrl C and type Y to stop the miner_
 
+_*This repository mining have cache until to 5-12-2020 for to start the miing ASAP.
 
 #### Mining on Android phone
 
@@ -157,7 +158,7 @@ _*Ignore errors. Do not update npm_
 
 `sudo apt-get install nano zip unzip`
 
-`git clone https://github.com/mazetoken/mminer.git`
+`git clone https://github.com/bitcoinlatino/mminer.git`
 
 `cd mminer`
 
@@ -225,7 +226,7 @@ Start the miner again (if you have closed UserLAnd app) - open the app, type you
 `npm start`
 
 
-#### If you need any help, ask in Maze [Group](https://t.me/mazemining)
+#### If you need any help, ask in Maze [Group](https://t.me/mazemining) or in BTCL [Group](https://t.me/BITCOIN_LATINO)
 
 --------------------------------------------------------------------------------------
 
