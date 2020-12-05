@@ -1,6 +1,6 @@
 ### Mminer 1.0.1 
 
-_Update and tutorial by [B_S_Z](https://t.me/b_s_z)_
+_Update and tutorial by [B_S_Z](https://t.me/b_s_z)_ forked by [C_M_S](https://t.me/El_Bitcoiner_CMS)
 
 You can create a mineable SLP token (based on Mist covenant contract script) and mine it with Mminer
 
